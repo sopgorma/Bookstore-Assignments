@@ -1,0 +1,58 @@
+{"books":[
+	{
+	"Title" : "Cybersecurity Roles",
+	"PubDate" : "2025-02-14",
+	"Genre": ["Educational", "Nonfiction"],
+    "Description" : "This educational book dives into the multitude of job roles required for protecting and monitoring an organizations infrastructure and responding to malicious attacks and threats. From a cybersecurity analyst to a network security administrator, these prominent roles entail various requirements, knowledge, and experience.",
+	"Quantity" : 42,
+	"Price" : 17.39,
+	"Writers" : [{
+		"Author" : "Austin Mellow",
+		"Publisher" : "Alex Greene"
+		}]
+	},{
+	"Title" : "Wizarding World",
+	"PubDate" : "2014-01-13",
+	"Genre": ["Fantasy", "Fiction"],
+    "Description" : "After her beloved grandmother went missing, Alice took over at the floral shop her grandmother owned for decades. At first, business was normal, but after a few days, she noticed an abundance of peculiar customers that would walk into the back rooms but never seem to come out, almost as if they disappeared. One day, as her curiosity got the best of her, she secretly followed a customer into the back room. What happened next changed her life forever.",
+	"Quantity" : 22,
+	"Price" : 22.45,
+	"Writers" : [{
+		"Author" : "Muhammad Deshir",
+		"Publisher" : "Destiny Applewood"
+		}]
+	},{
+	"Title" : "Fishing in the Nile",
+	"PubDate" : "2006-05-06",
+	"Genre": ["History", "Nonfiction"],
+    "Description" : "Adventurer and Historian Zoe Knight travels to the longest flowing river in the world, the Nile River. As she explores the vast body of water throughout Egypt and Sudan, she learns about various cultures and wildlife, and builds relationships with natives who depend on the Nile for their livelihoods.",
+	"Quantity" : 41,
+	"Price" : 13.56,
+	"Writers" : [{
+		"Author" : "Zoe Knight",
+		"Publisher" : "Anastasia Durane"
+		}]
+	},{
+	"Title" : "Hiding in Yellowstone",
+	"PubDate" : "2023-08-13",
+	"Genre": ["Horror", "Fiction"],
+    "Description" : "As the sun sets in the west views of the Yellowstone National Forest, Oliver begins to hear the eerie noises of unknown wildlife. Startled, he turns back and quickens his pace, hoping to get back to his cabin before the sun is no longer his guide. However, after turning back, he takes a few strides and begins to notice that the once familiar terrain is quite different somehow. After attempting to retrace his steps for what seemed like hours, the moon becomes his only source of light. He is lost in the vastness of the lodgepole pines and cottonwood trees. He attempts to view his compass, hoping for a sense of direction back to his cabin, but as he searches for it through his backpack, he realizes that all of his gear has been rifled through and most of his belongings are gone. Just as he begins to fear the worst, a shotgun blast can be heard in the distance. Was it just a hunter, or something more sinister?",
+	"Quantity" : 56,
+	"Price" : 25.67,
+	"Writers" : [{
+		"Author" : "Wesley Underwood",
+		"Publisher" : "Jeff Berk"
+		}]
+	},{
+	"Title" : "Finding Sasha",
+	"PubDate" : "1999-11-21",
+	"Genre": ["Mystery", "Fiction"],
+    "Description" : "Mary Anne is devastated when she learns her twin sister, Sasha, has been missing for two days. Her father, a lead homicide detective for the Indianapolis police department, reassures her that Sasha most likely ran away with her longtime boyfriend, Devon. But as Mary Anne begins to question Sasha's friends, and discovers that Devon never left their hometown, she begins to wonder what really happened. Even after explaining her findings to her father, he continuously attempts to disregard her worry. Similarly, everyone Sasha was close with begins to avoid her at all costs. Why is Mary Anne the only one concerned with the disappearance of Sasha? Even if she is all alone in the investigation, Mary Anne will do whatever it takes to find her twin.",
+	"Quantity" : 11,
+	"Price" : 43.12,
+	"Writers" : [{
+		"Author" : "Elisa Knighting",
+		"Publisher" : "Jeff Berk"
+		}]
+	}
+]}
